@@ -23,7 +23,7 @@ class App extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $baseURL = 'http://localhost/punto_venta/public/';
+	public $baseURL = 'http://app-crud-productos.herokuapp.com/public/';
 
 	/**
 	 * --------------------------------------------------------------------------
